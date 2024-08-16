@@ -1,2 +1,2 @@
 # Portfolio
-<img src="./Portfolio/assets/Slide.gif" alt="slide">
+<img src="./Portfolio/assets/slide.gif" alt="slide">
