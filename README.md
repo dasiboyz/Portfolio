@@ -42,8 +42,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/hacker-anonymous-hacktivist-xTcnSWYZvafyhEACBO"  />
-
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpieXR1dm1zangxcWpqNGFsOGVleGNsanFoOHZ4bXNtNTd3eXFmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnBELA6Mb1TeeOc/giphy.webp"  />
 ###
 
 <div align="left">
