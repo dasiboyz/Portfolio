@@ -8,6 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxpYjEyeHh2bXYwNGVrc2RrcjJzdG5va20zYzM4eW80dzlnamNreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.webp"/>
+
 - 🔭 I’m currently working on **Machine Learning Project**
 
 - 🌱 I’m currently learning **Master of Python Course**
@@ -22,7 +23,6 @@
 
 - 📫 How to reach me **desiboyz**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -62,6 +62,7 @@
 </div>
 
 ###
+<h3 align="left">Connect with me:</h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
