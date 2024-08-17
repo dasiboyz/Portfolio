@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxpYjEyeHh2bXYwNGVrc2RrcjJzdG5va20zYzM4eW80dzlnamNreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.webp"/>
 
-- 🔭 I’m currently working on [**Machine Learning Project**](https://www.ibm.com/topics/machine-learning)
+- 🔭 I’m currently working on [**Machine Learning Project**](https://en.wikipedia.org/wiki/Machine_learning)
 
 - 🌱 I’m currently learning **Master of Python Course**
 
