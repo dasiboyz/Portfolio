@@ -1,4 +1,3 @@
-# Portfolio
 <img src="./Portfolio/assets/Slide Banner.gif" alt="slide">
 <h3 align="center">Build cyber security skills that matter</h3>
 
