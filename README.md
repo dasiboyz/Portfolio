@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desihacker08&label=Profile%20views&color=0e75b6&style=flat" alt="dasihacker08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasihacker08" alt="dasihacker08" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxpYjEyeHh2bXYwNGVrc2RrcjJzdG5va20zYzM4eW80dzlnamNreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.webp"/>
@@ -21,7 +20,7 @@
 
 - 💬 Ask me about **Windows, Linux**
 
-- 📫 How to reach me **desihacker08**
+- 📫 How to reach me  **[desihacker08](https://www.youtube.com/@desihacker08)**
 
 <p align="left">
 </p>
