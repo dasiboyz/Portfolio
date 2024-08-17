@@ -1,5 +1,5 @@
 # Portfolio
-<img src="./Portfolio/assets/Slide.gif" alt="slide">
+<img src="./Portfolio/assets/Slide Banner.gif" alt="slide">
 <h3 align="center">Build cyber security skills that matter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasiboyz&label=Profile%20views&color=0e75b6&style=flat" alt="dasiboyz" /> </p>
