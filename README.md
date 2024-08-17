@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Ethical Hacker**
 
-- 👨‍💻 All of my projects are available at [https://www.no.com/](https://github.com/desihacker08?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/desihacker08?tab=repositories)
 
 - 💬 Ask me about **Windows, Linux, Android**
 
