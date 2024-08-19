@@ -1,5 +1,7 @@
 <img src="./Portfolio/assets/Slide Banner.gif" alt="slide">
-<h3 align="center">Build cyber security skills that matter</h3>
+<p align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7CB00&center=true&vCenter=true&width=850&height=100&lines=Build+cyber+security+skills+that+matter" alt="Typing SVG" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desihacker08&label=Profile%20views&color=0e75b6&style=flat" alt="dasihacker08" /> </p>
 
