@@ -18,11 +18,12 @@
 - 🤝 I’m looking for help with **Ethical Hacker**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/desihacker08?tab=repositories)
-
+  
 - 💬 Ask me about **Windows, Linux, Android**
 
+- TryHackMe - [here](https://tryhackme.com/p/desihacker08)
 - <img src="./Portfolio/assets/youtube.png" width="20" margin="50%"> How to reach me  **[desihacker08](https://www.youtube.com/@desihacker08)** 
-<img src="https://tryhackme-badges.s3.amazonaws.com/dasihacker08.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/desihacker08.png" alt="TryHackMe">
 <p align="left">
 </p>
 
