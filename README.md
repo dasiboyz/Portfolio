@@ -22,7 +22,7 @@
 - 💬 Ask me about **Windows, Linux, Android**
 
 - <img src="./Portfolio/assets/youtube.png" width="20" margin="50%"> How to reach me  **[desihacker08](https://www.youtube.com/@desihacker08)** 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/dasihacker08.png" alt="TryHackMe">
 <p align="left">
 </p>
 
